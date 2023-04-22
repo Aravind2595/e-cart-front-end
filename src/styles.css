@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+:root {
+  --animate-duration: 2s;
+  --animate-delay: 0.9s;
+}
